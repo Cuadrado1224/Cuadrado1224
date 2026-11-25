@@ -43,11 +43,11 @@ Soy estudiante de **Ingeniería en Software** en Ecuador y actualmente estoy cur
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Cuadrado1224&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuadrado1224&layout=compact&theme=tokyonight&hide_border=true&locale=es)
 
-![Racha de contribuciones](https://streak-stats.demolab.com?user=Cuadrado1224&theme=tokyonight&hide_border=true&locale=es)
+
 
 ---
 

@@ -17,7 +17,7 @@ Soy estudiante de **Ingeniería en Software** en Ecuador y actualmente estoy cur
 
 ### Lenguajes de programación
 
-![JavaScript](./assets/badges/javascript.svg) ![TypeScript](./assets/badges/typescript.svg) ![C#](./assets/badges/c-sharp.svg) ![Java](./assets/badges/java.svg) ![Python](./assets/badges/python.svg) ![SQL](./assets/badges/sql.svg)
+![JavaScript](./assets/badges/javascript.svg) ![TypeScript](./assets/badges/typescript.svg) ![C#](./assets/badges/c-sharp.svg) ![Java](./assets/badges/java.svg) ![Python](./assets/badges/python.svg) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQL](./assets/badges/sql.svg)
 
 ### Frontend
 

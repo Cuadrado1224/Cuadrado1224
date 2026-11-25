@@ -41,11 +41,11 @@ Soy estudiante de **Ingeniería en Software** en Ecuador y actualmente estoy cur
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🏆 Insignias y badges de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Cuadrado1224&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuadrado1224&layout=compact&theme=tokyonight&hide_border=true&locale=es)
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Cuadrado1224&theme=tokyonight&no-frame=true&row=1&column=6)
+[![Seguidores de GitHub](https://img.shields.io/github/followers/Cuadrado1224?style=for-the-badge&logo=github&label=Seguidores)](https://github.com/Cuadrado1224?tab=followers)
+[![Perfil de GitHub](https://img.shields.io/badge/GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github)](https://github.com/Cuadrado1224)
 
 ---
 

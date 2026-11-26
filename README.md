@@ -71,30 +71,26 @@ Sistema de gestión y trazabilidad de muestras desarrollado para una empresa fab
 
 ### CmStock
 
-`Proyecto empresarial par CMOriginal` · `Full Stack` · `2026`
+`Enterprise project for CMOriginal` · `Full Stack` · `2026`
 
 [Frontend](https://github.com/ARCM-Solutions/CmStock-Frontend) · [Backend](https://github.com/ARCM-Solutions/CmStock-Backend)
 
-Sistema de gestión y trazabilidad de muestras desarrollado para una empresa fabricante de pantuflas, actualmente en uso por la organización.
+A sample management and traceability system developed for a slipper manufacturer and currently in use by the organization.
 
-**Mis contribuciones:**
+**My contributions:**
 
-- Toma de requerimientos.
-- Desarrollo de la lógica principal del proyecto.
-- Mejoré las pantallas de muestras, incluyendo formularios de alta y edición, importación de datos y correcciones en los flujos de gestión.
-- Actualicé el dashboard y las vistas de historial, inventario, administración y reportes; también corregí problemas de diseño y desbordamiento en distintas pantallas.
-- Refactoricé componentes y utilidades para organizar mejor la interfaz y facilitar su mantenimiento.
-- Trabajé en la experiencia PWA, incluyendo ajustes al modo sin conexión, el service worker y la presentación de avisos de instalación.
+- Requirements gathering.
+- Developed the project's core logic.
+- Improved the sample screens, including creation and editing forms, data import, and fixes to management workflows.
+- Updated the dashboard and the history, inventory, administration, and reporting views; also fixed layout and overflow issues across multiple screens.
+- Refactored components and utilities to better organize the interface and simplify maintenance.
+- Improved the PWA experience, including offline mode, the service worker, and installation prompts.
 
-**Stack:** React, Vite, JavaScript, Node.js, PostgreSQL y Docker.
+**Stack:** React, Vite, JavaScript, Node.js, PostgreSQL, and Docker.
 
 ### [SmartPick](https://github.com/Cuadrado1224/SmartPick-frontend)
 
-Plataforma de marketplace que conecta compradores y vendedores. Permite explorar y publicar productos, guardar favoritos, gestionar perfiles y comunicarse mediante chat y notificaciones en tiempo real. Incluye herramientas de administración y está desarrollada con React, TypeScript y Vite.
-
-### [iCASE · From Requirements to Web Applications](https://github.com/materubag/Proyecto_ICase/tree/develop)
-
-I am working on a tool that analyzes PDF documents to identify requirements and actors, generates diagrams and UI prototypes, and uses those models as the basis for generating frontend and backend code.
+SmartPick is a marketplace platform that connects buyers and sellers. It allows users to browse and list products, save favorites, manage profiles, and communicate through real-time chat and notifications. It includes administration tools and is built with React, TypeScript, and Vite.
 
 ### [iCASE · From Requirements to Web Applications](https://github.com/materubag/Proyecto_ICase/tree/develop)
 

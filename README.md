@@ -10,7 +10,7 @@
 I am a **Software Engineering** student in Ecuador, currently in my **eighth semester**. I focus on **full-stack development**, from user interfaces and APIs to databases and deployment.
 
 - **Interests:** automating processes, integrating AI into web applications, and building practical solutions.
-- **Languages:** 🇪🇨 Spanish — Native · 🇬🇧 English — Intermediate (B1)
+- **Languages:** Spanish — Native ·English — Intermediate (B1)
 ---
 
 ## 🛠️ Tech Stack

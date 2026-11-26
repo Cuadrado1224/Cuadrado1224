@@ -67,6 +67,34 @@ Sistema de gestión y trazabilidad de muestras desarrollado para una empresa fab
 - Trabajé en la experiencia PWA, incluyendo ajustes al modo sin conexión, el service worker y la presentación de avisos de instalación.
 
 **Stack:** React, Vite, JavaScript, Node.js, PostgreSQL y Docker.
+## 🚀 Featured Project
+
+### CmStock
+
+`Proyecto empresarial par CMOriginal` · `Full Stack` · `2026`
+
+[Frontend](https://github.com/ARCM-Solutions/CmStock-Frontend) · [Backend](https://github.com/ARCM-Solutions/CmStock-Backend)
+
+Sistema de gestión y trazabilidad de muestras desarrollado para una empresa fabricante de pantuflas, actualmente en uso por la organización.
+
+**Mis contribuciones:**
+
+- Toma de requerimientos.
+- Desarrollo de la lógica principal del proyecto.
+- Mejoré las pantallas de muestras, incluyendo formularios de alta y edición, importación de datos y correcciones en los flujos de gestión.
+- Actualicé el dashboard y las vistas de historial, inventario, administración y reportes; también corregí problemas de diseño y desbordamiento en distintas pantallas.
+- Refactoricé componentes y utilidades para organizar mejor la interfaz y facilitar su mantenimiento.
+- Trabajé en la experiencia PWA, incluyendo ajustes al modo sin conexión, el service worker y la presentación de avisos de instalación.
+
+**Stack:** React, Vite, JavaScript, Node.js, PostgreSQL y Docker.
+
+### [SmartPick](https://github.com/Cuadrado1224/SmartPick-frontend)
+
+Plataforma de marketplace que conecta compradores y vendedores. Permite explorar y publicar productos, guardar favoritos, gestionar perfiles y comunicarse mediante chat y notificaciones en tiempo real. Incluye herramientas de administración y está desarrollada con React, TypeScript y Vite.
+
+### [iCASE · From Requirements to Web Applications](https://github.com/materubag/Proyecto_ICase/tree/develop)
+
+I am working on a tool that analyzes PDF documents to identify requirements and actors, generates diagrams and UI prototypes, and uses those models as the basis for generating frontend and backend code.
 
 ### [iCASE · From Requirements to Web Applications](https://github.com/materubag/Proyecto_ICase/tree/develop)
 

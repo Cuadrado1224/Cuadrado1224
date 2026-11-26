@@ -46,27 +46,6 @@ I am a **Software Engineering** student in Ecuador, currently in my **eighth sem
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuadrado1224&layout=compact&theme=tokyonight&hide_border=true&locale=en)
 
 ---
-
-## 🚀 Featured Project
-
-### CmStock
-
-`Proyecto empresarial par CMOriginal` · `Full Stack` · `2026`
-
-[Frontend](https://github.com/ARCM-Solutions/CmStock-Frontend) · [Backend](https://github.com/ARCM-Solutions/CmStock-Backend)
-
-Sistema de gestión y trazabilidad de muestras desarrollado para una empresa fabricante de pantuflas, actualmente en uso por la organización.
-
-**Mis contribuciones:**
-
-- Toma de requerimientos.
-- Desarrollo de la lógica principal del proyecto.
-- Mejoré las pantallas de muestras, incluyendo formularios de alta y edición, importación de datos y correcciones en los flujos de gestión.
-- Actualicé el dashboard y las vistas de historial, inventario, administración y reportes; también corregí problemas de diseño y desbordamiento en distintas pantallas.
-- Refactoricé componentes y utilidades para organizar mejor la interfaz y facilitar su mantenimiento.
-- Trabajé en la experiencia PWA, incluyendo ajustes al modo sin conexión, el service worker y la presentación de avisos de instalación.
-
-**Stack:** React, Vite, JavaScript, Node.js, PostgreSQL y Docker.
 ## 🚀 Featured Project
 
 ### CmStock
